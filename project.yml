@@ -1,0 +1,5 @@
+name: FirebaseDeps
+targets:
+  Foo:
+    platform: iOS
+    type: framework
