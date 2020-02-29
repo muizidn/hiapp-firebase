@@ -9,7 +9,7 @@ workspace $workspace
 # Pods for PodTest
 target 'Foo' do
     pod 'Firebase/Analytics'
-    pod 'Firebase/Crashlytics'
+    pod 'Firebase/Messaging'
 end
 
 post_install do |installer|
